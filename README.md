@@ -11,6 +11,12 @@ To enable the marketing team to optimize their **$2.5M Budget** by:
 
 ## 3. Dashboard Snapshot-
 
+Check out the dashboard here - 
+ **[Dashboard](https://github.com/dataspecialist/Marketing-analysis/blob/main/meta_ads_dashboard.pbix)** 
+
+ **FACEBOOK**
+ **INSTAGRAM**
+
 ## 4. Key KPIs & Definitions-
 Standard metrics used to measure campaign health.
 | **KPI** | **Value** | **Definition** |
