@@ -15,7 +15,14 @@ Check out the dashboard here -
  **[Dashboard](https://github.com/dataspecialist/Marketing-analysis/blob/main/meta_ads_dashboard.pbix)** 
 
  **FACEBOOK**
+ <p align="center">
+  <img src="dash_img1.png" width="600" />
+</p> 
+ 
  **INSTAGRAM**
+<p align="center">
+  <img src="dash_img2.png" width="600" />
+</p> 
 
 ## 4. Key KPIs & Definitions-
 Standard metrics used to measure campaign health.
